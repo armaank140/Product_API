@@ -29,7 +29,7 @@ const getAllProducts = async (req, res) => {
 
   /* Pagination Start*/
   let page = Number(req.query.page) || 1;
-  let limit = Number(req.query.limit) || 5;
+  let limit = Number(req.query.limit) || 10;
 
   let skip = (page - 1) * limit;
 
