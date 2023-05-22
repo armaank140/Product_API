@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Smartphone",
+    "description": "A powerful and sleek smartphone with advanced features.",
+
+    "brand": "Apple",
+    "model": "iphone14",
+    "storage": "256GB",
+    "ram": "8GB",
+
+    "price": 70000,
+    "sale_price": 80000,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "Smartphone",
+    "description": "A powerful and sleek smartphone with advanced features.",
+    "brand": "Apple",
+    "model": "iphone14Pro",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 70000,
+    "sale_price": 100000,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "Smartphone",
+    "description": "A powerful and sleek smartphone with advanced features.",
+    "brand": "Samsung",
+    "model": "Galaxy s23",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 64500,
+    "sale_price": 79999,
+    "stock": 20,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "Smartphone",
+    "description": "A powerful and sleek smartphone with advanced features.",
+    "brand": "Samsung",
+    "model": "Galaxy A33",
+    "storage": "64GB",
+    "ram": "6GB",
+    "price": 25000,
+    "sale_price": 30000,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+
+  {
+    "name": "Tablet",
+    "description": "A powerful and sleek tablet with advanced features.",
+    "brand": "Samsung",
+    "model": "Tap A8",
+    "storage": "64GB",
+    "ram": "6GB",
+    "price": 15000,
+    "sale_price": 20000,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "Tablet",
+    "description": "A powerful and sleek tablet with advanced features.",
+    "brand": "Apple",
+    "model": "Tab Q14",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 70000,
+    "sale_price": 80000,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "Monitor",
+    "description": "A powerful and sleek monitor with advanced features.",
+    "brand": "Apple",
+    "model": "iMac",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 70000,
+    "sale_price": 80000,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "Watch",
+    "description": "The more informed you are about your health, the more empowered you are to affect it.",
+    "brand": "Apple",
+    "model": "Watch Series 8",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 35000,
+    "sale_price": 45900,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+  },
+  {
+    "name": "iPad",
+    "description": "The more informed you are about your health, the more empowered you are to affect it.",
+    "brand": "Samsung",
+    "model": "iPad Pro ",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 35000,
+    "sale_price": 45900,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipadpro11-digitalmat-gallery-1-202210?wid=364&hei=333&fmt=png-alpha&.v=1664477161220"
+  },
+  {
+    "name": "iPad",
+    "description": "The more informed you are about your health, the more empowered you are to affect it.",
+    "brand": "Apple",
+    "model": "iPad aIR ",
+    "storage": "256GB",
+    "ram": "8GB",
+    "price": 35000,
+    "sale_price": 45900,
+    "stock": 10,
+    "tax": 18,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipadpro11-digitalmat-gallery-1-202210?wid=364&hei=333&fmt=png-alpha&.v=1664477161220"
+  }
+]
