@@ -20,7 +20,6 @@ const productSchema = new mongoose.Schema({
   },
   model: {
     type: String,
-    unique : true,
     required : true,
     trim : true
   },
