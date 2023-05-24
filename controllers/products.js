@@ -46,4 +46,8 @@ const getAllCategories = async (req, res) => {
   res.status(200).json({ myData });
 };
 
-module.exports = { getAllProducts, getAllCategories };
+
+
+
+
+module.exports = { getAllProducts, getAllCategories,  };
